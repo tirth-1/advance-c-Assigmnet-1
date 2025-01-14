@@ -47,7 +47,7 @@ namespace SchoolCourses
             {
                 CourseName = "Advance C#",
                 CourseCode = "CMSK0200",
-                Description = "More detailed fundamental on advance C#",
+                Description = "fundamental on advance C#",
                 InstructorName = "Allan",
                 NumberOfStudents = 30,
                 SectionNumber = 1000787,
@@ -70,7 +70,7 @@ namespace SchoolCourses
             {
                 CourseName = "Introduction to Angular",
                 CourseCode = "CMSK0153",
-                Description = "Fundamental and Basics Of Angular",
+                Description = " Basics Of Angular",
                 InstructorName = "Allan",
                 NumberOfStudents = 30,
                 ContractorID = "CVEN-9982",
